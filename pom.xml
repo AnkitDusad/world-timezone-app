@@ -37,7 +37,7 @@
 						<password>AVPDapisero@131608</password>
 						<muleVersion>4.3.0</muleVersion>						
 						<environment>Sandbox</environment>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>worldtimezone-service-created</applicationName>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
